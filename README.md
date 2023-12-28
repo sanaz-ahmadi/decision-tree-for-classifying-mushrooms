@@ -7,11 +7,11 @@
 ### steps followed by the code:
 <li> 1- Dataset --> One hot encoded dataset </li>
   <li> 2- Decision Tree Refresher
-    <ol>
+    <ul>
       <li>Calculate entropy</li>
       <li>Split dataset</li>
       <li>Calculate information gain</li>
       <li>Get best split</li>
-    </ol>
+    </ul>
   </li>
 <li>3- Building the tree</li>
